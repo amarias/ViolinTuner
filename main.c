@@ -17,10 +17,10 @@
 // SysTick Reload values for the pitches
 uint32_t sounds[] = {
                      204081,    // G3 (Sound off)
-                     204081,    // G3
-                     136193,    // D4
-                     90909,     // A4
-                     60670};    // E5
+                     204081,    // G3 (196 Hz)
+                     136193,    // D4 (293.7 Hz)
+                     90909,     // A4 (440 Hz)
+                     60670};    // E5 (659.3 Hz)
 
 uint8_t button_press = 0;       // Index for the sounds array
                                 // Correlates with number of presses
