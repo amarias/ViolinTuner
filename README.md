@@ -7,7 +7,7 @@ After E5, pressing the switch turns off the sound.
 Visit [my website](https://allisonmarias.com/violin-tuner) to see a video of the violin tuner in action.
 
 # Built With
-Some links include helpful technical documents and order info
+Links include helpful technical documents and order info
 * [ARM Cortex-M4F Based MCU TM4C123G LaunchPad Evaluation Kit](http://www.ti.com/tool/EK-TM4C123GXL)
 * [TI Code Composer Studio IDE](http://www.ti.com/tool/CCSTUDIO)
 * Tactile Switch
