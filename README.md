@@ -12,3 +12,4 @@ Links include helpful technical documents and order info
 * [TI Code Composer Studio IDE](http://www.ti.com/tool/CCSTUDIO)
 * Tactile Switch
 * 3.5mm Horizontal Stereo Jack
+* A breadboard
